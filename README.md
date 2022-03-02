@@ -1,3 +1,3 @@
-# My-Second-Repository
+# Curriculum Vitae
 
-My CV
+This project contains the files for my web-based curriculum vitae.
